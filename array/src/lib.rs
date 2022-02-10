@@ -14,6 +14,7 @@ pub mod advance_through_array;
 
 pub mod del_duplicate;
 pub mod stocks;
+pub mod alternation;
 
 
 
