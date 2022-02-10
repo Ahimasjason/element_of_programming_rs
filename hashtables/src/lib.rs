@@ -13,6 +13,7 @@ pub mod nearest_repeated_words;
 pub mod smallest_subarray;
 pub mod smallest_seq_order;
 pub mod longest_range;
+pub mod collatz_conjecture;
 
 
 
