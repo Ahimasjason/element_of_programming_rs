@@ -1,7 +1,6 @@
 fn odd_even(arr: &mut [isize]) {
     let (mut next_even, mut next_odd) = (0, arr.len() - 1);
-
-    while next_even <= next_odd {
+    while next_even < next_odd {
         if arr[next_even] % 2 == 0 {
             next_even += 1
         } else {
