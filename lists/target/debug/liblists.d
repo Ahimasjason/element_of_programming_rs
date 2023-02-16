@@ -1,1 +1,0 @@
-/home/simsol/Documents/L/2021/dsa/new/lists/target/debug/liblists.rlib: /home/simsol/Documents/L/2021/dsa/new/lists/src/first.rs /home/simsol/Documents/L/2021/dsa/new/lists/src/lib.rs /home/simsol/Documents/L/2021/dsa/new/lists/src/second.rs /home/simsol/Documents/L/2021/dsa/new/lists/src/third.rs
